@@ -19,9 +19,9 @@ kivy.require("1.11.1")
 
 
 MYSQL_HOST = 'localhost'
-MYSQL_USER = 'at3skusu'
-MYSQL_PASSWORD = 'Fey1997fb1907:)'
-MYSQL_DATABASE = 'anonuser'
+MYSQL_USER = 'username'
+MYSQL_PASSWORD = 'pass:)'
+MYSQL_DATABASE = 'databasename'
 
 
 connection = mysql.connector.connect(
